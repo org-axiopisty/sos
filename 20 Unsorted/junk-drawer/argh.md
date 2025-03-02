@@ -1,0 +1,1 @@
+- more ideas around using a private VOIP environment as an agent switchboard #AI #agents #POTS 

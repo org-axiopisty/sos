@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "20 Unsorted/202503011749-POTS-as-API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "202503011749-POTS-as-API"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -185,10 +184,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "74ce7081824a86cc",
+  "active": "96a7b5673ccee796",
   "lastOpenFiles": [
-    "README.md",
+    "20 Unsorted/junk-drawer/argh.md",
+    "20 Unsorted/202503011749-POTS-as-API.md",
     "sos.md",
+    "README.md",
     "10 Lobby/media/assets/SOS - POV Copilot - Lrg.jpg.~tmp",
     "10 Lobby/media/assets/SOS - POV Copilot - Lrg.jpg",
     "10 Lobby/media/assets/SOS - POV Copilot - Med.jpg.~tmp",
@@ -196,8 +197,6 @@
     "10 Lobby/media/assets/SOS - POV Copilot - Med.png",
     "10 Lobby/media/assets/SOS - POV Copilot - Copy.png",
     "10 Lobby/media/assets/SOS - POV Copilot.png",
-    "20 Unsorted/202503011749-POTS-as-API.md",
-    "20 Unsorted/junk-drawer/Untitled.md",
     "20 Unsorted/junk-drawer",
     "10 Lobby/media/assets",
     "10 Lobby/media",
